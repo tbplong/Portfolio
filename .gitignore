@@ -1,0 +1,6 @@
+# Originals kept outside the site
+/CV.pdf
+/*.jpg
+
+.DS_Store
+Thumbs.db
